@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Diego!
 - 👀 I’m interested in backend development, microservices, cloud, nfv, telcos
-- 🌱 I’m currently learning about virtual network functions
+- 🌱 I’m currently learning about network function virtualization
 - 💞️ I’m looking to collaborate on ...
 - https://diegodcp.github.io
 
