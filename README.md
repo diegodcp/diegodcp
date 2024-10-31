@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Diego</h1>
 
-<p align="center"> :computer: Senior back-end Engineer, currently based in Madrid, at <a href="https://www.hpe.com/emea_europe/en/home.html" target="_blank">HPE</a>.</p>
+<p align="center"> :computer: Senior back-end Engineer, currently based in Madrid, working at <a href="https://www.hpe.com/emea_europe/en/home.html" target="_blank">HPE</a>.</p>
 
 <br>
 <h2 align="left">About me</h2>
