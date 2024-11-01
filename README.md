@@ -6,7 +6,7 @@
 <h2 align="left">About me</h2>
 <p>Involved in Telco Solutions, I collaborate with the Research and Development team working on NFV products.</p>
 <p>Interested in Back-end development, Microservices, Cloud, NFV and Telcos.</p>
-<p>Currently learning latest versions of Angular and home infrastructure virtualization.</p>
+<p>Currently learning latest versions of Angular and infrastructure virtualization.</p>
 
 <br>
 <h2 align="left">Side projects</h2>  
